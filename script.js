@@ -82,7 +82,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(resumeString);
             break;
         case "skills":
-            sendTextMessage("<span class='sk'>I am currently pursuing B.Tech degree in Information Technology.<br><br>I can comfortably write code in following languages :<br><span class='bold'>C<br>Python<br>CSS<br>HTML</span><br><br>I've experiance with following frameworks :<span class='bold'><br>Android<br>Flutter<br>ReactJs<br>GTK</span><br><br>I use <span class='bold'>Arch Linux</span> as daily driver on my HP Pavilion 15-ec0xxx<br>OS:Arch Linux<br>DE:Gnome(More often) Kde(often)<br>Favourite IDE:VSCode</span>");
+            sendTextMessage("<span class='sk'>I am currently pursuing B.Tech degree in Information Technology.<br><br>I can comfortably write code in following languages :<br><span class='bold'>C<br>Python<br>CSS<br>HTML</span><br><br>I've experiance with following frameworks :<span class='bold'><br>MS Office<br>Git<br>ReactJs<br>Kubernetes</span><br><br>I use <span class='bold'>Ubuntu Linux</span> as daily driver on my Hp Pavillion Laptop<br>Favourite IDE:VSCode</span>");
             break;
 
         case "education":
